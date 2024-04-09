@@ -20,7 +20,7 @@ This project is aimed at practicing web development skills by replicating featur
 This project does not require any specific installation steps as it is a practice project. Simply clone the repository to your local machine to explore the code.
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/AthulKM/SoftwareCampus.git
 ```
 
 ## Usage
